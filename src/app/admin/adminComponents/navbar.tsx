@@ -1,7 +1,6 @@
 import ThemeToggle from "@/components/ThemeToggle";
 import React from "react";
-import AdminNotification from "./notification";
-import { Bell } from "lucide-react";
+
 
 const AdminNavbar = () => {
   return (
